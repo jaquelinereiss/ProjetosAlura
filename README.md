@@ -3,7 +3,7 @@ Projeto desenvolvido durante o curso de HTML e CSS usando responsividade com mob
 
 ▫️ Prévia do projeto: 
 <br><br>
-![image](https://github.com/jaquelinereiz/alura-books/assets/91039376/30a3b69a-1c12-459e-b051-956c2e92426e)
+![imgAluraBooks](https://github.com/user-attachments/assets/cdc99361-1def-43d6-87be-a240010512d9)
 <br><br>
 
 # ✦ Projeto: Portifólio Alura
@@ -12,7 +12,7 @@ Projeto desenvolvido durante os cursos de HTML e CSS da Alura.
 
 ▫️ Prévia do projeto:
 <br><br>
-![image](https://github.com/jaquelinereiz/portifolio-alura/assets/91039376/cae3cb5b-2a1e-4246-aff4-9c17b87890ea)
+![imgPortifolioAlura](https://github.com/user-attachments/assets/ec085776-7494-424e-a03d-7215fdaae626)
 <br><br>
 
 # ✦ Projeto: Alura Plus
@@ -20,14 +20,16 @@ Projeto desenvolvido durante as aulas práticas do curso HTML e CSS do Alura. O 
 
 ▫️ Prévia do projeto:
 <br><br>
-![image](https://github.com/jaquelinereiz/alura-plus/assets/91039376/253fcd19-4e9f-4f6c-a915-d00fca07c9c2)
+![imgAluraPlus-1](https://github.com/user-attachments/assets/fd82d375-4cb7-4aee-845e-daee2d40aa2f)
 <br><br>
-![image](https://github.com/jaquelinereiz/alura-plus/assets/91039376/a030cf11-553d-4d71-bb81-01984fb771de)
+![imgAluraPlus-2](https://github.com/user-attachments/assets/64fb3298-d897-4bf6-9789-4257e9b7bd2e)
 <br><br>
-![image](https://github.com/jaquelinereiz/alura-plus/assets/91039376/2f26ce15-0975-4db9-a643-7c6d5f2412f3)
+![imgAluraPlus-3](https://github.com/user-attachments/assets/17ddf577-655e-40d1-bdbb-7d912b39a9c5)
 <br><br>
-![image](https://github.com/jaquelinereiz/alura-plus/assets/91039376/08035281-fdb0-4bb6-8943-a2baaa7ec381)
+![imgAluraPlus-4](https://github.com/user-attachments/assets/bdbb8a8a-b211-4d42-ba8e-cc2871b45d77)
 <br><br>
-![image](https://github.com/jaquelinereiz/alura-plus/assets/91039376/90780e9a-c0a2-4858-9532-aaaa5cc15cfe)
+![imgAluraPlus-5](https://github.com/user-attachments/assets/7c7faab3-c456-4c74-9d39-7d2e025818cf)
+
+
 
 

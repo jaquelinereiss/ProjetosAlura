@@ -15,6 +15,14 @@ Projeto desenvolvido durante os cursos de HTML e CSS da Alura.
 ![imgPortifolioAlura](https://github.com/user-attachments/assets/ec085776-7494-424e-a03d-7215fdaae626)
 <br><br>
 
+# ✦ Projeto: Game Número Screto
+Projeto desenvolvido durante o curso da Alura de lógica de programação explorando funções e listas em JavaScritp.
+
+▫️ Prévia do projeto: 
+<br><br>
+![imgJogoNumeroSecreto](https://github.com/user-attachments/assets/56c6250c-13e8-4b55-a398-e26d6a71e887)
+<br><br>
+
 # ✦ Projeto: Alura Plus
 Projeto desenvolvido durante as aulas práticas do curso HTML e CSS do Alura. O objetivo deste projeto foi criar uma página web do Alura Plus, contendo informações e valores do plano. Neste projeto foi possível trabalhar diversas propriedades do HMTL e CSS.
 
@@ -29,7 +37,3 @@ Projeto desenvolvido durante as aulas práticas do curso HTML e CSS do Alura. O 
 ![imgAluraPlus-4](https://github.com/user-attachments/assets/bdbb8a8a-b211-4d42-ba8e-cc2871b45d77)
 <br><br>
 ![imgAluraPlus-5](https://github.com/user-attachments/assets/7c7faab3-c456-4c74-9d39-7d2e025818cf)
-
-
-
-

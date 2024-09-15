@@ -15,7 +15,7 @@ Projeto desenvolvido durante os cursos de HTML e CSS da Alura.
 ![imgPortifolioAlura](https://github.com/user-attachments/assets/ec085776-7494-424e-a03d-7215fdaae626)
 <br><br>
 
-# ✦ Projeto: Game Número Screto
+# ✦ Projeto: Game Número Secreto
 Projeto desenvolvido durante o curso da Alura de lógica de programação explorando funções e listas em JavaScritp.
 
 ▫️ Prévia do projeto: 
@@ -37,3 +37,7 @@ Projeto desenvolvido durante as aulas práticas do curso HTML e CSS do Alura. O 
 ![imgAluraPlus-4](https://github.com/user-attachments/assets/bdbb8a8a-b211-4d42-ba8e-cc2871b45d77)
 <br><br>
 ![imgAluraPlus-5](https://github.com/user-attachments/assets/7c7faab3-c456-4c74-9d39-7d2e025818cf)
+<br><br>
+
+# ✦ Projeto: AluGames
+O projeto foi desenvolvido utilizando Kotlin com o IntelliJ e o Maven. Neste projeto foi possível aprender a consumir uma API para buscar dados externos, conhecer os principais tipos de dados e recursos de linguagem, utilizar o Scanner para leitura de dados e controlar o fluxo da aplicação com o uso de condicionais, loops e lançamento de exceções.
